@@ -1,0 +1,6 @@
+*.elf
+*.bin
+*.slxc
+/Base_ert_rtw
+/slprj
+/IdentificacionMotorDC_ert_rtw
